@@ -1,0 +1,12 @@
+{
+  "name": "skygb",
+  "version": "1.0.0",
+  "description": "GB Emulator written in JS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Skyliegirl33",
+  "license": "MPL-2.0",
+  "type": "module"
+}
